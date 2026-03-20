@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+.playwright/
+.playwright-cli/
+.claude/
+output/
+data/
+*.log
